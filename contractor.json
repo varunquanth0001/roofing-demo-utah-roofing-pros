@@ -1,0 +1,458 @@
+{
+  "demo": false,
+  "preview": {
+    "notice": "Concept preview — prepared by SolvynxAI. This preview is for demonstration purposes and is not the official website of Utah Roofing Pros.",
+    "formNotice": "This is a concept preview. Forms are not connected or submitted."
+  },
+  "testOnly": false,
+  "meta": {
+    "title": "Utah Roofing Pros | Roofing in Cottonwood Heights, UT",
+    "description": "Utah Roofing Pros: roof replacement, shingle repair and storm restoration for homes and businesses in Cottonwood Heights and Salt Lake City. Free estimates.",
+    "robots": "noindex,nofollow,noarchive"
+  },
+  "brand": {
+    "accent": "#d2432c",
+    "accentDeep": "#b5361f",
+    "section": "#cf422c"
+  },
+  "business": {
+    "name": "Utah Roofing Pros",
+    "shortName": "Utah Roofing Pros",
+    "wordmark": "Utah Roofing Pros",
+    "phone": "(801) 688-3853",
+    "phoneE164": "+18016883853",
+    "email": "john@utahroofingpros.com",
+    "address": "2825 E Cottonwood Pkwy #500, Cottonwood Heights, UT 84121",
+    "hours": null,
+    "legal": "Concept preview",
+    "social": []
+  },
+  "nav": {
+    "services": "Services",
+    "work": "Reviews",
+    "areas": "Areas",
+    "crew": "Team",
+    "process": "Process",
+    "faq": "FAQ",
+    "cta": "Free estimate"
+  },
+  "drawer": {
+    "title": "What we do",
+    "link": "All services →",
+    "areasTitle": "Areas we serve",
+    "cards": [
+      {
+        "img": "service-roof-replacement",
+        "badge": "Replacement",
+        "title": "Roof replacement",
+        "meta": "Guided start to finish"
+      },
+      {
+        "img": "service-roof-repair",
+        "badge": "Repair",
+        "title": "Shingle repair",
+        "meta": "Homes"
+      },
+      {
+        "img": "ba-storm-before",
+        "badge": "Storm",
+        "title": "Storm restoration",
+        "meta": "Hail and wind"
+      },
+      {
+        "img": "service-siding",
+        "badge": "Commercial",
+        "title": "Commercial flat roofing",
+        "meta": "Flat roofs"
+      }
+    ],
+    "promo": {
+      "kicker": "Free estimate",
+      "title": "Get a free roof inspection",
+      "line": "Your roof is inspected and photographed, then you get a detailed proposal.",
+      "button": "Book it"
+    }
+  },
+  "hero": {
+    "eyebrow": "Residential & commercial roofing · Salt Lake County, Utah",
+    "title": "Utah roofs,<br /><mark class=\"hl\">done right.</mark>",
+    "lead": "Shingle repair, storm restoration, full replacement and commercial flat roofing for homes and businesses across Salt Lake County.",
+    "cta": "Book a free estimate",
+    "cta2": "See services",
+    "meta": null,
+    "chips": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "countLabel": "services",
+    "scrollHint": "Scroll to fly in",
+    "cursorLabel": "View service",
+    "featuredLabel": "Featured service",
+    "diveCta": "All services"
+  },
+  "jobs": [
+    {
+      "k": "roof",
+      "label": "Replacement",
+      "em": "Free est.",
+      "type": null,
+      "town": "Cottonwood Heights, UT",
+      "title": "Roof replacement",
+      "img": "service-roof-replacement",
+      "line": "Help choosing the right materials, then a clean, fast installation.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1240,
+        900
+      ]
+    },
+    {
+      "k": "roof",
+      "label": "Repair",
+      "em": null,
+      "type": null,
+      "town": "Cottonwood Heights, UT",
+      "title": "Shingle repair",
+      "img": "service-roof-repair",
+      "line": "Shingle roof repairs for homes across Salt Lake County.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        760,
+        520
+      ]
+    },
+    {
+      "k": "storm",
+      "label": "Storm",
+      "em": null,
+      "type": null,
+      "town": "Cottonwood Heights, UT",
+      "title": "Storm restoration",
+      "img": "ba-storm-before",
+      "line": "Storm, hail and wind damage, with a simple, stress-free insurance claim process.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1820,
+        1300
+      ]
+    },
+    {
+      "k": "roof",
+      "label": "Commercial",
+      "em": null,
+      "type": null,
+      "town": "Cottonwood Heights, UT",
+      "title": "Commercial flat roofing",
+      "img": "service-siding",
+      "line": "Commercial flat roofing from a certified commercial roofing contractor.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        560,
+        1290
+      ]
+    }
+  ],
+  "stats": {
+    "eyebrow": "01 · Utah Roofing Pros",
+    "title": "Locally owned,<br /><mark>GAF certified.</mark>",
+    "body": "Premium materials, GAF Certified installation standards, and help with insurance claims after hail and wind.",
+    "cta": "Get a free estimate",
+    "signs": [
+      {
+        "count": 4,
+        "label": "roofing services"
+      },
+      {
+        "count": 2,
+        "label": "service areas"
+      }
+    ],
+    "tickerLabel": "Why Utah Roofing Pros",
+    "tickerBadge": null,
+    "ticker": [
+      [
+        "Locally owned and operated",
+        ""
+      ],
+      [
+        "GAF Certified installation standards",
+        ""
+      ],
+      [
+        "Certified commercial roofing contractor",
+        ""
+      ],
+      [
+        "Insurance claim help after hail and wind",
+        ""
+      ],
+      [
+        "Free estimates",
+        ""
+      ]
+    ]
+  },
+  "services": {
+    "eyebrow": "02 · Services",
+    "title": "Repair, restore<br /><mark>or replace.</mark>",
+    "cta": "Free estimate",
+    "countLabel": "services",
+    "linkLabel": "Book a free estimate",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "items": [
+      {
+        "f": "roof",
+        "big": true,
+        "tag": "Replacement",
+        "img": "service-roof-replacement",
+        "title": "Roof replacement",
+        "sub": "Guided start to finish",
+        "line": "Help choosing the right materials, then a clean, fast installation.",
+        "specs": "Replacement",
+        "pin": [
+          "Cottonwood Heights",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "roof",
+        "big": false,
+        "tag": "Repair",
+        "img": "service-roof-repair",
+        "title": "Shingle repair",
+        "sub": "Homes",
+        "line": null,
+        "specs": "Repairs",
+        "pin": [
+          "Cottonwood Heights",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "storm",
+        "big": false,
+        "tag": "Storm",
+        "img": "ba-storm-before",
+        "title": "Storm restoration",
+        "sub": "Hail and wind",
+        "line": null,
+        "specs": "Storm · claims",
+        "pin": [
+          "Cottonwood Heights",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "roof",
+        "big": false,
+        "tag": "Commercial",
+        "img": "service-siding",
+        "title": "Commercial flat roofing",
+        "sub": "Flat roofs",
+        "line": null,
+        "specs": "Flat roofing",
+        "pin": [
+          "Cottonwood Heights",
+          "free estimate"
+        ]
+      }
+    ]
+  },
+  "areas": {
+    "eyebrow": "03 · Areas we serve",
+    "title": "Across Salt<br /><mark>Lake County.</mark>",
+    "body": "Based in Cottonwood Heights, serving Salt Lake and the surrounding areas.",
+    "cardLink": "Book a free estimate →",
+    "center": [
+      30,
+      46
+    ],
+    "items": [
+      {
+        "n": "Cottonwood Heights",
+        "c": "UT",
+        "x": 30,
+        "y": 46,
+        "img": "service-roof-replacement",
+        "badge": "Our office",
+        "stats": null,
+        "note": "2825 E Cottonwood Pkwy #500, Cottonwood Heights, UT 84121"
+      },
+      {
+        "n": "Salt Lake City",
+        "c": "UT",
+        "x": 14,
+        "y": 26,
+        "img": "service-roof-repair",
+        "badge": "Service area",
+        "stats": null,
+        "note": "Free inspection and estimate in Salt Lake City."
+      }
+    ]
+  },
+  "estimate": {
+    "eyebrow": "04 · Free estimate",
+    "title": "Tell us about<br /><mark class=\"dark\">your roof.</mark>",
+    "body": "Share a few details and we will follow up about your roof.",
+    "cardTitle": "Quick request",
+    "addressPlaceholder": "Street address",
+    "resultLabel": "Your roof",
+    "basis": "Free inspection in {town}",
+    "pricing": null,
+    "noPriceNote": "Material, roof height and pitch all affect the price. You get an exact price after an inspection, with no guesswork.",
+    "cta": "Book my free estimate",
+    "foot": "Free estimates"
+  },
+  "process": {
+    "eyebrow": "How it works · 4 steps",
+    "title": "4 steps,<br /><mark>start to finish.</mark>",
+    "counterLabel": "Step",
+    "steps": [
+      {
+        "t": "Get in touch",
+        "x": "Call (801) 688-3853 or send the form below with a few details about your roof.",
+        "img": "ba-storm-before",
+        "vf": "Get in touch",
+        "pin": null,
+        "live": "Get in touch",
+        "chip": "Get in touch",
+        "flap": "GET IN TOU"
+      },
+      {
+        "t": "Inspection",
+        "x": "The roof is looked over on site so the work can be scoped properly.",
+        "img": "ba-worn-before",
+        "vf": "Inspection",
+        "pin": null,
+        "live": "Inspection",
+        "chip": "Inspection",
+        "flap": "INSPECTION"
+      },
+      {
+        "t": "Proposal",
+        "x": "You receive the scope of work and the price before anything starts.",
+        "img": "service-roof-repair",
+        "vf": "Proposal",
+        "pin": null,
+        "live": "Proposal",
+        "chip": "Proposal",
+        "flap": "PROPOSAL"
+      },
+      {
+        "t": "The work",
+        "x": "Work is scheduled at a time that suits you.",
+        "img": "service-roof-replacement",
+        "vf": "The work",
+        "pin": null,
+        "live": "The work",
+        "chip": "The work",
+        "flap": "THE WORK"
+      }
+    ]
+  },
+  "crew": {
+    "show": false,
+    "items": []
+  },
+  "stories": {
+    "show": false,
+    "eyebrow": "05 · Reviews",
+    "title": "What customers<br /><mark>say.</mark>",
+    "plateTitle": "Review",
+    "photoNote": "Illustrative photo",
+    "items": []
+  },
+  "season": {
+    "show": false,
+    "towns": {},
+    "posts": []
+  },
+  "faq": {
+    "eyebrow": "05 · Questions",
+    "title": "Questions,<br /><mark>answered.</mark>",
+    "contactLead": "Didn’t see your question? Call",
+    "contactJoin": "or email",
+    "contactTail": "",
+    "cta": "Call us",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ]
+    ],
+    "items": [
+      {
+        "g": "all",
+        "q": "What services do you offer?",
+        "a": "Roof replacement, shingle repair, storm restoration and commercial flat roofing."
+      },
+      {
+        "g": "all",
+        "q": "Which areas do you serve?",
+        "a": "Cottonwood Heights and Salt Lake City, UT."
+      },
+      {
+        "g": "all",
+        "q": "How do I get a free estimate?",
+        "a": "Use the form on this page, or call (801) 688-3853 and email john@utahroofingpros.com."
+      }
+    ]
+  },
+  "book": {
+    "eyebrow": "Free estimate",
+    "title": "Get your free<br /><mark>estimate.</mark>",
+    "body": "Choose a service and a time that suits you, and the team will be in touch to confirm.",
+    "cardTitle": "Book a free estimate",
+    "cardNote": "About 60 seconds",
+    "times": [
+      "9:00 am",
+      "11:00 am",
+      "1:00 pm",
+      "3:00 pm"
+    ],
+    "submit": "Request visit",
+    "thanks": "Thanks, <b>{name}</b>. This is a concept preview. Forms are not connected or submitted. To book, call (801) 688-3853.",
+    "under": null,
+    "callPrefix": "Or call"
+  },
+  "footer": {
+    "officeLabel": "Our office",
+    "companyTitle": "Company",
+    "newsletter": null
+  }
+}
